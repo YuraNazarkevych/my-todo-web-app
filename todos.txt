@@ -2,3 +2,5 @@ Study english
 Find job
 Create web app
 Read book
+find movie for evening
+Study Python
